@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  flex: 0 0 auto;
+  background-color: darkslategray;
+  color: white;
+  padding: 16px;
+}
+
+.app-body {
+  flex: 1 0 auto;
+  padding: 0 16px 16px;
+}

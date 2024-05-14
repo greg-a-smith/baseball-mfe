@@ -1,0 +1,12 @@
+.component-button {
+  background-color: green;
+  color: white;
+  border-radius: 4px;
+}
+
+.component-button--link {
+  background-color: transparent;
+  color: blue;
+  text-decoration: underline;
+  border: none;
+}

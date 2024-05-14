@@ -1,0 +1,19 @@
+.component-table {
+  width: 100%;
+
+  tr:nth-child(even) {
+    background-color: beige;
+  }
+
+  th, td {
+    text-align: left;
+  }
+
+  th.center, td.center {
+    text-align: center;
+  }
+
+  th.right, td.right {
+    text-align: right;
+  }
+}
